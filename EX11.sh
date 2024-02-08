@@ -1,5 +1,5 @@
 #!/bin/bash
 for a in Sathis Karthi Varun
 do
-echo $a
+echo "HELLO" $a
 done
