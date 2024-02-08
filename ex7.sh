@@ -1,4 +1,9 @@
 #! /bin/bash
-function greet() {
-  echo "Hello, I am $1 and I am $2"
-}
+
+FILE="sample.txt"
+if [ -e "$FILE" ]
+then
+  echo "$FILE exists"
+else
+  echo "$FILE does NOT exist"
+fi
