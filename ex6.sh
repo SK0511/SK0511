@@ -1,6 +1,5 @@
 #! /bin/bash
 
-if [ "$NAME" == "SATHISHKUMAR" ]
-then
-  echo "Your name is SATHISHKUMAR"
-fi
+# CREATE FOLDER AND FILE
+mkdir sample_folder
+touch "sample_folder/test.txt"
