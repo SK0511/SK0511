@@ -13,4 +13,4 @@ echo "your sever count is $sc"
 echo "your internet status is $int"
 
 
-cho "thanking for viewing the details"
+echo "thanking for viewing the details"
